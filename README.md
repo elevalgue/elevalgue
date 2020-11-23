@@ -2,7 +2,7 @@
 <img src="./images/github-profile.gif" width="700" heigth="400"/>
 </p>
 
-### **Hi there** 👋
+### **Hi there 👋**
 
 **Thanks for stopping by!**
 <br />
@@ -17,8 +17,8 @@ My name is Elena and I'm living in Seville, a beautiful city in the south of Spa
 
 ## **🙃 What's more:**
 
-- 🔭 I’m currently exploring Javascript in depth ...
-- 🌱 But I'm keen to learn many more things ...
+- **🔭** I’m currently exploring Javascript in depth ...
+- **🌱** But I'm keen to learn many more things ...
   <br />
 
 ## **📫 You can reach me:**
