@@ -2,7 +2,7 @@
 <img src="./images/github-profile.gif" width="700" heigth="400"/>
 </p>
 
-# **Hi there 👋**
+# **Hi there, 👋**
 
 **Thanks for stopping by!**
 <br />
