@@ -1,11 +1,13 @@
 <p align ="center">
-<img src="./images/github-profile.gif" width="700" heigth="400"/>
+<img src="./images/github-profile.gif" width="700" heigth="100"/>
 </p>
 
 # **Hi there, 👋**
 
 **Thanks for stopping by!**
-<br />
+<p align ="left">
+<img src="https://media.giphy.com/media/7m3gt0iymAiPcWqdiS/giphy.gif" height="125px" />
+</p>
 
 ## **👩🏼‍💻 About me:**
 
@@ -19,7 +21,6 @@ My name is Elena and I'm living in Seville, a beautiful city in the south of Spa
 
 - **📚** I’m currently exploring Javascript in depth ...
 - **🤓** But I'm keen to learn many more things ...
-  <br />
 
 ## **📫 You can reach me:**
 
