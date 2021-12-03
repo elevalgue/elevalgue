@@ -1,12 +1,12 @@
 <p align ="center">
-<img src="./images/github-profile.gif" width="700" heigth="100"/>
+<img src="./images/github-profile.gif" width="700" heigth="125"/>
 </p>
 
 # **Hi there, 👋**
 
 **Thanks for stopping by!**
 <p align ="left">
-<img src="https://media.giphy.com/media/7m3gt0iymAiPcWqdiS/giphy.gif" height="125px" />
+<img src="https://media.giphy.com/media/7m3gt0iymAiPcWqdiS/giphy.gif" height="100px" />
 </p>
 
 ## **👩🏼‍💻 About me:**
