@@ -21,8 +21,7 @@ My name is Elena and I'm living in Seville, a beautiful city in the south of Spa
 
 **📚** I’m currently learning:
 
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC?.svg?&style=flat&logo=typescript&&logoColor=white"/> <img src="https://img.shields.io/badge/webpack%20-%238DD6F9?.svg?style=flat&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/angular%20-%2320232a?.svg?&style=flat&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/NEXT%20-%23323330?.svg?&style=flat&logo=next.js&&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC?.svg?&style=flat&logo=typescript&&logoColor=white"/> <img src="https://img.shields.io/badge/webpack%20-%238DD6F9?.svg?style=flat&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/angular%20-%2320232a?.svg?&style=flat&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/NEXT%20-%23323330?.svg?&style=flat&logo=next.js&&logoColor=white"/> <img src="https://img.shields.io/badge/svelte%20-%23f1413d?.svg?&style=flat&logo=svelte&&logoColor=white"/>
 
 **🤓** And I'm keen to learn many more things ...
 
